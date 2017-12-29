@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Housing in the Bronx 
 
 You can use the [editor on GitHub](https://github.com/aditi-hudli/compjourno/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
