@@ -1,8 +1,6 @@
 ## Housing in the Bronx 
 
-You can use the [editor on GitHub](https://github.com/aditi-hudli/compjourno/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"When I was pregnant I defecated in plasitc bags for two months because the toilet wasn't working", says Carla Votor, 46, a resident of St.Edmund's Court,1892 Morris Ave, Bronx.
 
 ### Markdown
 
