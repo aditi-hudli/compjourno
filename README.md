@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-<iframe width='100%' height='500px' frameborder='0' src='https://api.mapbox.com/styles/v1/aditihudli/cjbu65m2x4bke2rpk8wrzrgiq.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYWRpdGlodWRsaSIsImEiOiJjamI3YTc5MGUzdHc4MndvMXlmNmdrNnRqIn0.S-6gC3gbhbxlUEJmNKqyFw#11.0/40.764936/-73.901032/0'></iframe>
+<iframe width='100%' height='500px' frameborder='0' src='https://api.mapbox.com/styles/v1/aditihudli/cjbu70k7wba6e2ro8cypew1ex.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYWRpdGlodWRsaSIsImEiOiJjamI3YTc5MGUzdHc4MndvMXlmNmdrNnRqIn0.S-6gC3gbhbxlUEJmNKqyFw#10.5/40.759957/-73.920174/0'></iframe>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
