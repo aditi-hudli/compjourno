@@ -28,6 +28,15 @@ Allah, pleased with the work being done says, "Some residents are happy with the
 
 
 ## Analysis
+The watchlist consists of the buildings owned by the 100 worst landlords
+In 2016 the worst landlord was Harry D Silverstein, who owned 8 buildings across New York.
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/a/columbia.edu/spreadsheets/d/e/2PACX-1vRRV704dvVpjyeEQB0MMvNpMpPQP1wuJs3fmFDvZk5cjbvCUm1HWFgqljZPZuD--dWC9msLCF23GuqP/pubchart?oid=1722008309&amp;format=interactive"></iframe>
+
+
+In 2017 the worst landlord was listed as Jonathan Cohen-Silvershore Properties, with 19 building under his/their name.
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/a/columbia.edu/spreadsheets/d/e/2PACX-1vRRV704dvVpjyeEQB0MMvNpMpPQP1wuJs3fmFDvZk5cjbvCUm1HWFgqljZPZuD--dWC9msLCF23GuqP/pubchart?oid=1603113859&amp;format=interactive"></iframe>
+
+
 In 2016 the public advocate's office listed the top 20 worst buildings in each neighbourhood based on HPD and DOB violations only. Illustrated below.
 <iframe width='100%' height='500px' frameborder='0' src='https://nehap3.carto.com/builder/ff6f15d2-7623-4210-9770-d2230b2f84b2/embed'></iframe>
 
