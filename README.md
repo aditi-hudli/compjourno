@@ -26,6 +26,8 @@ Edwards explained that the management ignores some buildings for some years, and
 
 Allah, pleased with the work being done says, "Some residents are happy with the work being done. Some residents just liek to cause trouble and blame the management." He believes that, 1892 Morris Avenue will not be on the watchlist for another year.
 
+
+## Analysis
 In 2016 the public advocate's office listed the top 20 worst buildings in each neighbourhood based on HPD and DOB violations only. Illustrated below.
 <iframe width='100%' height='500px' frameborder='0' src='https://nehap3.carto.com/builder/ff6f15d2-7623-4210-9770-d2230b2f84b2/embed'></iframe>
 
