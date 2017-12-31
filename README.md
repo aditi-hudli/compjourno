@@ -43,5 +43,3 @@ In 2016 the public advocate's office listed the top 20 worst buildings in each n
 
 In 2017 only the top 10 from each borough were listed. This is a representation of number of violations per units in the building.
 <iframe width='100%' height='500px' frameborder='0' src='https://nehap3.carto.com/builder/099d4865-a82c-47ae-a084-75e3d8915360/embed'></iframe>
-
-[Link](url) and ![Image](src)
